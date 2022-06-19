@@ -49,7 +49,7 @@ This graph analyzes the type of user (customer vs. subscriber), gender, and dail
 
 ![this is an image](https://github.com/ncalson/Chal-14_Bikesharing/blob/main/images/August%20Peak%20Hours.png)
 
-The peak hour of bikes in use is 5pm, while 6pm comes in second, and 8am comes in third place for peak hour use.
+The peak hour of bikes in use is 5pm, while 6pm comes in second, and 8am comes in third place.
 
 ## Summary:
 The data reflects higher usage among male bike riders, and that the most concentrated times of bike use are during weekday commuting hours (8-9am and 5-7pm).
