@@ -31,7 +31,7 @@ The graph above shows that males have the highest bike use, secondly females, an
 
 ![this is an image](https://github.com/ncalson/Chal-14_Bikesharing/blob/main/images/Trips%20by%20Weekday%20per%20Hour.png)
 
-Areas of the heat graph above that show a darker shade of orange represent busier times of the day for bike use. Weekdays are busiest during commuting hours (8-9am, and 5-7pm). Weekends show darker shades spread across the entire day, showing that there's general use over the course of the day, but not as concentrated of bike use as weekdays during commuting hours.
+Areas of the heat graph above that show a darker shade of orange represent busier times of the day for bike use. Weekdays are busiest during commuting hours (8-9am and 5-7pm). Weekends show darker shades spread across the entire day, showing that there's general use over the course of the day, but not as concentrated of bike use as weekdays during commuting hours.
 
 ### Trips by Gender (Weekday per Hour)
 
