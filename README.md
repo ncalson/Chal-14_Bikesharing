@@ -53,4 +53,5 @@ The peak hour of bikes in use is 5pm, while 6pm comes in second, and 8am comes i
 
 ## Summary:
 The data reflects higher usage among male bike riders, and that the most concentrated times of bike use are during weekday commuting hours (8-9am and 5-7pm).
+### Suggested Visualizations for Future Analysis
 I would suggest including visualizations displaying popular starting locations vs. ending locations. I would also include a visuation showing the average trip duration based on rider age to get a better understanding of the user base.
