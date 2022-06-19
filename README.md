@@ -8,8 +8,9 @@ Click below for access to the Tableau data visualizations for this statistical a
 
 [NYC Citi Bike Challenge - Tableau Data Visualizations](https://public.tableau.com/shared/D5DMMPJF6?:display_count=n&:origin=viz_share_link)
 
-### Below are some data visualizations and brief descriptions:
-Total Number of Bike Trips
+Below are some data visualizations and brief descriptions:
+
+### Total Number of Bike Trips
 ![this is an image](https://github.com/ncalson/Chal-14_Bikesharing/blob/main/images/Number%20of%20Trips.png)
 
 The total number of bike trips during August 2019 was 2,344,224.
