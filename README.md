@@ -5,6 +5,7 @@ The purpose of this analysis was to conduct a bike trip analysis to solidfy the 
 
 ## Results: 
 Click below for access to the Tableau data visualizations for this statistical analysis:
+
 [NYC Citi Bike Challenge - Tableau Data Visualizations](https://public.tableau.com/shared/D5DMMPJF6?:display_count=n&:origin=viz_share_link)
 
 Below are some data visualizations and brief descriptions:
