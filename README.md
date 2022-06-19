@@ -37,13 +37,13 @@ Areas of the heat graph above that show a darker shade of orange represent busie
 
 ![this is an image](https://github.com/ncalson/Chal-14_Bikesharing/blob/main/images/Trips%20by%20Gender%20(Weekday%20per%20Hour).png)
 
-This heat graph takes the hourly use and distinguishes concentrated use between different genders. Females and males both follow the same hour structure of busier hours as mentioned when describing the "Trips by Weekday per Hour" graph, but there's a signficantly darker shade in the male column of this graph, showing that males generally use bikes more often than females. The unknown demographic shows significant less bike use than males and females, but higher use in its own category on weekends, particulary Saturday.
+This heat graph takes the hourly use and distinguishes concentrated use between different genders. Females and males both follow the same hour structure of busier hours as mentioned when describing the "Trips by Weekday per Hour" graph, but there's a signficantly darker shade in the male column of this graph, showing that males generally use bikes more often than females. The unknown demographic shows significantly less bike use than males and females, but higher use in its own category on weekends, particulary Saturday.
 
 ### User Trips by Gender by Weekday
 
 ![this is an image](https://github.com/ncalson/Chal-14_Bikesharing/blob/main/images/User%20Trips%20by%20Gender%20by%20Weekday.png)
 
-This graph shows the type of user (customer vs. subscriber) and gender, and shows which demographic specifically has highest bike use by weekday. Male subscribers have the highest bike use as that area of the graph is the darkest shade. Female subscribers are the second darkest shaded area of the graph. The least shaded, and therefore lowest bike use, area of the graph is the unknown subscriber section. Customer use across all genders seems fairly balanced.
+This graph analyzes the type of user (customer vs. subscriber), gender, and daily bike use. Combining these three factors gives a more detailed picture of exactly which users are utilizing services more than others. Male subscribers have the highest bike use as that area of the graph is the darkest shade. Female subscribers are the second darkest shaded area of the graph. The least shaded, and therefore lowest bike use, area of the graph is the unknown subscriber section. Customer use across all genders seems fairly balanced.
 
 ### August Peak Hours
 
